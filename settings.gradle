@@ -1,2 +1,5 @@
 rootProject.name = 'JavaFlixCatalog'
+include 'domain'
+include 'infrastructure'
+include 'application'
 
