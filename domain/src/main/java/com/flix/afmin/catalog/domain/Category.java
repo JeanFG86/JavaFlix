@@ -5,4 +5,5 @@ package com.flix.afmin.catalog.domain;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Category {
     public String id;
+    public string nome;
 }
